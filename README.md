@@ -20,7 +20,7 @@
 This project automatically collects daily weather data for Los Angeles using:
 
 - **Python** for data collection and processing
-- **Open-Meteo API** for free weather data (no API key needed)
+- **Open-Meteo API** for free weather data
 - **GitHub Actions** for scheduled automation
 - **CSV + JSON** for data storage
 
