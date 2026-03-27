@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-03-27 |
-| **Conditions** | Foggy 🌫️ |
-| **Temperature** | 58.8°F (feels like 61.1°F) |
-| **High / Low** | 82.2°F / 57.2°F |
-| **Humidity** | 99% |
-| **Wind** | 1.1 mph |
-| **UV Index** | 7.1 |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 70.4°F (feels like 75.0°F) |
+| **High / Low** | 80.7°F / 57.2°F |
+| **Humidity** | 75% |
+| **Wind** | 5.3 mph |
+| **UV Index** | 7.05 |
 | **Sunrise** | 2026-03-27T06:46 |
 | **Sunset** | 2026-03-27T19:09 |
 
