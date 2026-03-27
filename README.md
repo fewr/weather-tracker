@@ -1,8 +1,6 @@
 # 🌤️ Weather Tracker — Los Angeles
 
 > Automated daily weather data collection using GitHub Actions.
-> Every commit is real data, every green square is a real run.
-
 ## Latest Reading
 
 | Metric | Value |
