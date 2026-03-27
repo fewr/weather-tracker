@@ -32,12 +32,6 @@ All data lives in the `data/` directory:
 - `data/daily/` — One JSON file per day
 - `data/weather_log.csv` — Running CSV log of all readings
 
-## How It Works
-
-1. GitHub Actions runs `collect.py` every day at 8:00 AM UTC
-2. The script fetches current weather from the Open-Meteo API
-3. Data is saved as a daily JSON snapshot and appended to the CSV log
-4. Changes are committed and pushed automatically
 
 ## Setup Your Own
 
