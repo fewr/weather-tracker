@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-03-28 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 54.5°F (feels like 53.2°F) |
-| **High / Low** | 81.4°F / 54.1°F |
-| **Humidity** | 84% |
-| **Wind** | 3.0 mph |
-| **UV Index** | 6.9 |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 77.1°F (feels like 76.4°F) |
+| **High / Low** | 79.9°F / 52.3°F |
+| **Humidity** | 48% |
+| **Wind** | 6.0 mph |
+| **UV Index** | 7.25 |
 | **Sunrise** | 2026-03-28T06:45 |
 | **Sunset** | 2026-03-28T19:10 |
 
