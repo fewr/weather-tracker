@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-03-30 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 80.3°F (feels like 77.5°F) |
-| **High / Low** | 86.6°F / 53.8°F |
-| **Humidity** | 34% |
-| **Wind** | 6.3 mph |
-| **UV Index** | 7.25 |
-| **Sunrise** | 2026-03-29T06:43 |
-| **Sunset** | 2026-03-29T19:11 |
+| **Conditions** | Partly cloudy ⛅ |
+| **Temperature** | 57.4°F (feels like 59.0°F) |
+| **High / Low** | 78.1°F / 52.8°F |
+| **Humidity** | 96% |
+| **Wind** | 1.2 mph |
+| **UV Index** | 6.55 |
+| **Sunrise** | 2026-03-30T06:42 |
+| **Sunset** | 2026-03-30T19:12 |
 
 ## About This Project
 
