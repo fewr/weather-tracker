@@ -7,15 +7,15 @@
 
 | Metric | Value |
 |--------|-------|
-| **Date** | 2026-04-08 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 76.3°F (feels like 80.9°F) |
-| **High / Low** | 79.1°F / 56.2°F |
-| **Humidity** | 52% |
-| **Wind** | 4.5 mph |
-| **UV Index** | 7.65 |
-| **Sunrise** | 2026-04-08T06:30 |
-| **Sunset** | 2026-04-08T19:18 |
+| **Date** | 2026-04-09 |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 60.3°F (feels like 60.3°F) |
+| **High / Low** | 79.5°F / 57.4°F |
+| **Humidity** | 81% |
+| **Wind** | 3.3 mph |
+| **UV Index** | 7.25 |
+| **Sunrise** | 2026-04-09T06:28 |
+| **Sunset** | 2026-04-09T19:19 |
 
 ## About This Project
 
@@ -26,7 +26,7 @@ This project automatically collects daily weather data for Los Angeles using:
 - **GitHub Actions** for scheduled automation
 - **CSV + JSON** for data storage
 
-### Data collected: 13 days
+### Data collected: 14 days
 
 All data lives in the `data/` directory:
 - `data/daily/` — One JSON file per day
