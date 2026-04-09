@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-04-09 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 60.3°F (feels like 60.3°F) |
-| **High / Low** | 79.5°F / 57.4°F |
-| **Humidity** | 81% |
-| **Wind** | 3.3 mph |
-| **UV Index** | 7.25 |
+| **Temperature** | 75.4°F (feels like 80.0°F) |
+| **High / Low** | 78.7°F / 58.9°F |
+| **Humidity** | 55% |
+| **Wind** | 4.4 mph |
+| **UV Index** | 6.9 |
 | **Sunrise** | 2026-04-09T06:28 |
 | **Sunset** | 2026-04-09T19:19 |
 
