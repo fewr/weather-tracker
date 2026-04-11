@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-04-11 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 55.9°F (feels like 55.9°F) |
-| **High / Low** | 69.1°F / 56.3°F |
-| **Humidity** | 85% |
-| **Wind** | 1.2 mph |
-| **UV Index** | 7.5 |
+| **Conditions** | Partly cloudy ⛅ |
+| **Temperature** | 70.0°F (feels like 69.8°F) |
+| **High / Low** | 71.1°F / 56.9°F |
+| **Humidity** | 55% |
+| **Wind** | 5.4 mph |
+| **UV Index** | 7.15 |
 | **Sunrise** | 2026-04-11T06:26 |
 | **Sunset** | 2026-04-11T19:21 |
 
