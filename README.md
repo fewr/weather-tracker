@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-04-21 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 66.4°F (feels like 62.8°F) |
-| **High / Low** | 76.5°F / 53.7°F |
-| **Humidity** | 57% |
-| **Wind** | 9.3 mph |
-| **UV Index** | 7.9 |
-| **Sunrise** | 2026-04-20T06:15 |
-| **Sunset** | 2026-04-20T19:28 |
+| **Temperature** | 55.7°F (feels like 55.9°F) |
+| **High / Low** | 68.2°F / 52.1°F |
+| **Humidity** | 88% |
+| **Wind** | 1.3 mph |
+| **UV Index** | 6.95 |
+| **Sunrise** | 2026-04-21T06:14 |
+| **Sunset** | 2026-04-21T19:28 |
 
 ## About This Project
 
