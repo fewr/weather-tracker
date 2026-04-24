@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-04-24 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 67.7°F (feels like 62.6°F) |
-| **High / Low** | 77.3°F / 52.6°F |
-| **Humidity** | 45% |
-| **Wind** | 9.4 mph |
-| **UV Index** | 7.95 |
-| **Sunrise** | 2026-04-23T06:11 |
-| **Sunset** | 2026-04-23T19:30 |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 56.6°F (feels like 54.4°F) |
+| **High / Low** | 76.5°F / 53.3°F |
+| **Humidity** | 73% |
+| **Wind** | 4.0 mph |
+| **UV Index** | 8.0 |
+| **Sunrise** | 2026-04-24T06:10 |
+| **Sunset** | 2026-04-24T19:31 |
 
 ## About This Project
 
