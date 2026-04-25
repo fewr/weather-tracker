@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-04-25T01:05:06.825872+00:00",
+  "date": "2026-04-25",
+  "city": "Los Angeles",
+  "latitude": 34.05,
+  "longitude": -118.24,
+  "temperature_f": 67.3,
+  "feels_like_f": 65.8,
+  "humidity_pct": 71,
+  "wind_speed_mph": 9.6,
+  "precipitation_in": 0.0,
+  "weather_code": 0,
+  "high_f": 76.4,
+  "low_f": 54.3,
+  "total_precip_in": 0.0,
+  "uv_index_max": 8.0,
+  "sunrise": "2026-04-24T06:10",
+  "sunset": "2026-04-24T19:31"
+}
