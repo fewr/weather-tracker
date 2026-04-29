@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-04-29 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 52.9°F (feels like 50.5°F) |
-| **High / Low** | 76.0°F / 50.7°F |
-| **Humidity** | 76% |
-| **Wind** | 3.0 mph |
-| **UV Index** | 8.0 |
+| **Temperature** | 56.6°F (feels like 56.0°F) |
+| **High / Low** | 76.9°F / 51.0°F |
+| **Humidity** | 78% |
+| **Wind** | 1.4 mph |
+| **UV Index** | 8.05 |
 | **Sunrise** | 2026-04-29T06:05 |
 | **Sunset** | 2026-04-29T19:35 |
 
