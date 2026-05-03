@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-05-03 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 58.4°F (feels like 59.0°F) |
-| **High / Low** | 68.2°F / 57.6°F |
-| **Humidity** | 85% |
-| **Wind** | 1.6 mph |
-| **UV Index** | 8.0 |
+| **Temperature** | 62.7°F (feels like 61.3°F) |
+| **High / Low** | 68.9°F / 56.2°F |
+| **Humidity** | 69% |
+| **Wind** | 5.0 mph |
+| **UV Index** | 7.85 |
 | **Sunrise** | 2026-05-03T06:01 |
 | **Sunset** | 2026-05-03T19:38 |
 
