@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-05-07 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 61.5°F (feels like 63.1°F) |
-| **High / Low** | 79.5°F / 53.9°F |
-| **Humidity** | 82% |
-| **Wind** | 0.6 mph |
+| **Temperature** | 78.4°F (feels like 81.3°F) |
+| **High / Low** | 78.5°F / 53.9°F |
+| **Humidity** | 45% |
+| **Wind** | 7.6 mph |
 | **UV Index** | 8.1 |
 | **Sunrise** | 2026-05-07T05:57 |
 | **Sunset** | 2026-05-07T19:41 |
