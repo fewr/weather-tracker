@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-05-08 |
-| **Conditions** | Overcast ☁️ |
-| **Temperature** | 60.9°F (feels like 61.9°F) |
-| **High / Low** | 78.6°F / 59.1°F |
-| **Humidity** | 90% |
-| **Wind** | 3.6 mph |
+| **Conditions** | Mainly clear 🌤️ |
+| **Temperature** | 71.8°F (feels like 77.2°F) |
+| **High / Low** | 77.4°F / 59.1°F |
+| **Humidity** | 64% |
+| **Wind** | 4.1 mph |
 | **UV Index** | 8.15 |
 | **Sunrise** | 2026-05-08T05:56 |
 | **Sunset** | 2026-05-08T19:42 |
