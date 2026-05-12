@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-05-12 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 75.4°F (feels like 74.5°F) |
-| **High / Low** | 82.7°F / 57.5°F |
-| **Humidity** | 54% |
-| **Wind** | 8.1 mph |
-| **UV Index** | 8.3 |
-| **Sunrise** | 2026-05-11T05:54 |
-| **Sunset** | 2026-05-11T19:44 |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 58.3°F (feels like 59.1°F) |
+| **High / Low** | 73.2°F / 56.9°F |
+| **Humidity** | 94% |
+| **Wind** | 3.4 mph |
+| **UV Index** | 8.25 |
+| **Sunrise** | 2026-05-12T05:53 |
+| **Sunset** | 2026-05-12T19:45 |
 
 ## About This Project
 
