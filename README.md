@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-05-14 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 61.8°F (feels like 61.4°F) |
-| **High / Low** | 75.0°F / 56.5°F |
-| **Humidity** | 74% |
-| **Wind** | 3.4 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 70.1°F (feels like 74.6°F) |
+| **High / Low** | 74.0°F / 56.5°F |
+| **Humidity** | 56% |
+| **Wind** | 3.8 mph |
 | **UV Index** | 8.25 |
 | **Sunrise** | 2026-05-14T05:51 |
 | **Sunset** | 2026-05-14T19:46 |
