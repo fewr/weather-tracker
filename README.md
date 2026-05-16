@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-05-16 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 60.8°F (feels like 62.6°F) |
-| **High / Low** | 71.9°F / 58.6°F |
-| **Humidity** | 85% |
-| **Wind** | 0.3 mph |
+| **Temperature** | 61.0°F (feels like 62.1°F) |
+| **High / Low** | 73.9°F / 58.7°F |
+| **Humidity** | 87% |
+| **Wind** | 2.9 mph |
 | **UV Index** | 8.25 |
 | **Sunrise** | 2026-05-16T05:50 |
 | **Sunset** | 2026-05-16T19:48 |
