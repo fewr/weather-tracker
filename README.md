@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-05-22 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 60.0°F (feels like 61.8°F) |
-| **High / Low** | 73.2°F / 57.9°F |
-| **Humidity** | 87% |
-| **Wind** | 0.3 mph |
+| **Temperature** | 63.3°F (feels like 63.2°F) |
+| **High / Low** | 75.3°F / 59.2°F |
+| **Humidity** | 77% |
+| **Wind** | 4.8 mph |
 | **UV Index** | 8.3 |
 | **Sunrise** | 2026-05-22T05:46 |
 | **Sunset** | 2026-05-22T19:52 |
