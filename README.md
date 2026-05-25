@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-05-25 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 54.5°F (feels like 52.8°F) |
-| **High / Low** | 74.0°F / 52.5°F |
-| **Humidity** | 84% |
-| **Wind** | 3.9 mph |
+| **Temperature** | 72.7°F (feels like 74.5°F) |
+| **High / Low** | 73.6°F / 54.4°F |
+| **Humidity** | 52% |
+| **Wind** | 9.2 mph |
 | **UV Index** | 8.3 |
 | **Sunrise** | 2026-05-25T05:45 |
 | **Sunset** | 2026-05-25T19:54 |
