@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-05-28 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 52.1°F (feels like 49.0°F) |
-| **High / Low** | 69.9°F / 50.1°F |
-| **Humidity** | 67% |
-| **Wind** | 2.4 mph |
-| **UV Index** | 6.45 |
+| **Conditions** | Mainly clear 🌤️ |
+| **Temperature** | 68.7°F (feels like 67.8°F) |
+| **High / Low** | 70.0°F / 50.8°F |
+| **Humidity** | 45% |
+| **Wind** | 6.8 mph |
+| **UV Index** | 7.45 |
 | **Sunrise** | 2026-05-28T05:43 |
 | **Sunset** | 2026-05-28T19:56 |
 
