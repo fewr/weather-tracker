@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-06-01 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 71.4°F (feels like 74.9°F) |
-| **High / Low** | 81.2°F / 58.9°F |
-| **Humidity** | 65% |
-| **Wind** | 5.0 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 78.9°F (feels like 80.6°F) |
+| **High / Low** | 80.2°F / 58.9°F |
+| **Humidity** | 47% |
+| **Wind** | 10.0 mph |
 | **UV Index** | 8.45 |
 | **Sunrise** | 2026-06-01T05:42 |
 | **Sunset** | 2026-06-01T19:59 |
