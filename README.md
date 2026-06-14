@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-06-14 |
-| **Conditions** | Foggy 🌫️ |
-| **Temperature** | 60.8°F (feels like 63.5°F) |
-| **High / Low** | 80.5°F / 60.1°F |
-| **Humidity** | 97% |
-| **Wind** | 1.6 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 67.0°F (feels like 69.0°F) |
+| **High / Low** | 79.8°F / 61.3°F |
+| **Humidity** | 72% |
+| **Wind** | 1.2 mph |
 | **UV Index** | 8.55 |
 | **Sunrise** | 2026-06-14T05:40 |
 | **Sunset** | 2026-06-14T20:05 |
