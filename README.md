@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-06-17 |
-| **Conditions** | Overcast ☁️ |
-| **Temperature** | 65.3°F (feels like 68.0°F) |
-| **High / Low** | 79.4°F / 61.2°F |
-| **Humidity** | 83% |
-| **Wind** | 1.6 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 79.4°F (feels like 83.5°F) |
+| **High / Low** | 79.6°F / 61.2°F |
+| **Humidity** | 50% |
+| **Wind** | 8.5 mph |
 | **UV Index** | 8.6 |
 | **Sunrise** | 2026-06-17T05:41 |
 | **Sunset** | 2026-06-17T20:06 |
