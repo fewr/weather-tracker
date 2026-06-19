@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-06-19 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 66.6°F (feels like 66.3°F) |
-| **High / Low** | 74.7°F / 60.5°F |
-| **Humidity** | 72% |
-| **Wind** | 6.3 mph |
-| **UV Index** | 8.45 |
-| **Sunrise** | 2026-06-18T05:41 |
-| **Sunset** | 2026-06-18T20:06 |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 61.9°F (feels like 64.0°F) |
+| **High / Low** | 74.4°F / 59.6°F |
+| **Humidity** | 86% |
+| **Wind** | 0.9 mph |
+| **UV Index** | 8.6 |
+| **Sunrise** | 2026-06-19T05:41 |
+| **Sunset** | 2026-06-19T20:07 |
 
 ## About This Project
 
