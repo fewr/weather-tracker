@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-06-25 |
-| **Conditions** | Partly cloudy ⛅ |
-| **Temperature** | 64.8°F (feels like 66.9°F) |
-| **High / Low** | 78.5°F / 61.0°F |
-| **Humidity** | 78% |
-| **Wind** | 1.1 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 76.5°F (feels like 83.7°F) |
+| **High / Low** | 81.1°F / 60.8°F |
+| **Humidity** | 61% |
+| **Wind** | 4.3 mph |
 | **UV Index** | 8.55 |
 | **Sunrise** | 2026-06-25T05:43 |
 | **Sunset** | 2026-06-25T20:08 |
