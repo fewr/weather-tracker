@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-06-28 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 63.9°F (feels like 64.9°F) |
-| **High / Low** | 76.3°F / 61.0°F |
-| **Humidity** | 79% |
-| **Wind** | 3.4 mph |
+| **Temperature** | 69.5°F (feels like 68.8°F) |
+| **High / Low** | 76.3°F / 60.1°F |
+| **Humidity** | 61% |
+| **Wind** | 5.7 mph |
 | **UV Index** | 8.45 |
 | **Sunrise** | 2026-06-28T05:44 |
 | **Sunset** | 2026-06-28T20:08 |
