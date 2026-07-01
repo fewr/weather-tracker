@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-07-01 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 63.4°F (feels like 64.6°F) |
-| **High / Low** | 73.9°F / 59.1°F |
-| **Humidity** | 82% |
-| **Wind** | 3.1 mph |
-| **UV Index** | 8.45 |
+| **Temperature** | 64.8°F (feels like 67.2°F) |
+| **High / Low** | 76.0°F / 61.5°F |
+| **Humidity** | 79% |
+| **Wind** | 0.8 mph |
+| **UV Index** | 8.4 |
 | **Sunrise** | 2026-07-01T05:45 |
 | **Sunset** | 2026-07-01T20:08 |
 
