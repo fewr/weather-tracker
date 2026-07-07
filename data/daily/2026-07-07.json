@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-07-07T01:22:56.123291+00:00",
+  "timestamp": "2026-07-07T15:26:48.329326+00:00",
   "date": "2026-07-07",
   "city": "Los Angeles",
   "latitude": 34.05,
   "longitude": -118.24,
-  "temperature_f": 74.5,
-  "feels_like_f": 72.7,
-  "humidity_pct": 52,
-  "wind_speed_mph": 8.4,
+  "temperature_f": 68.9,
+  "feels_like_f": 71.1,
+  "humidity_pct": 72,
+  "wind_speed_mph": 2.4,
   "precipitation_in": 0.0,
   "weather_code": 0,
-  "high_f": 84.7,
-  "low_f": 61.3,
+  "high_f": 88.6,
+  "low_f": 59.7,
   "total_precip_in": 0.0,
   "uv_index_max": 8.6,
-  "sunrise": "2026-07-06T05:47",
-  "sunset": "2026-07-06T20:07"
+  "sunrise": "2026-07-07T05:48",
+  "sunset": "2026-07-07T20:07"
 }
