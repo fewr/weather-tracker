@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-07-10 |
-| **Conditions** | Foggy 🌫️ |
-| **Temperature** | 64.4°F (feels like 68.1°F) |
-| **High / Low** | 86.2°F / 63.9°F |
-| **Humidity** | 97% |
-| **Wind** | 2.6 mph |
-| **UV Index** | 8.6 |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 83.3°F (feels like 88.8°F) |
+| **High / Low** | 84.5°F / 64.7°F |
+| **Humidity** | 51% |
+| **Wind** | 8.9 mph |
+| **UV Index** | 8.55 |
 | **Sunrise** | 2026-07-10T05:49 |
 | **Sunset** | 2026-07-10T20:06 |
 
