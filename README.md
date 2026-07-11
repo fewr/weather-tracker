@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-07-11 |
-| **Conditions** | Overcast ☁️ |
-| **Temperature** | 66.8°F (feels like 70.2°F) |
-| **High / Low** | 83.9°F / 65.7°F |
-| **Humidity** | 86% |
-| **Wind** | 2.5 mph |
-| **UV Index** | 8.15 |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 77.5°F (feels like 82.9°F) |
+| **High / Low** | 84.5°F / 65.7°F |
+| **Humidity** | 61% |
+| **Wind** | 6.8 mph |
+| **UV Index** | 8.05 |
 | **Sunrise** | 2026-07-11T05:50 |
 | **Sunset** | 2026-07-11T20:06 |
 
