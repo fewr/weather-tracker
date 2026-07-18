@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-07-18 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 69.4°F (feels like 73.9°F) |
-| **High / Low** | 88.6°F / 68.2°F |
-| **Humidity** | 82% |
-| **Wind** | 1.1 mph |
+| **Temperature** | 87.2°F (feels like 93.6°F) |
+| **High / Low** | 87.7°F / 68.2°F |
+| **Humidity** | 47% |
+| **Wind** | 7.1 mph |
 | **UV Index** | 8.55 |
 | **Sunrise** | 2026-07-18T05:54 |
 | **Sunset** | 2026-07-18T20:03 |
