@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-07-25 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 71.2°F (feels like 75.9°F) |
-| **High / Low** | 93.9°F / 70.0°F |
-| **Humidity** | 80% |
-| **Wind** | 1.7 mph |
-| **UV Index** | 8.45 |
+| **Temperature** | 89.2°F (feels like 97.4°F) |
+| **High / Low** | 91.9°F / 70.7°F |
+| **Humidity** | 47% |
+| **Wind** | 5.1 mph |
+| **UV Index** | 8.4 |
 | **Sunrise** | 2026-07-25T05:59 |
 | **Sunset** | 2026-07-25T19:59 |
 
