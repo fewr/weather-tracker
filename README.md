@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-07-26 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 82.7°F (feels like 85.7°F) |
-| **High / Low** | 91.4°F / 70.7°F |
-| **Humidity** | 57% |
-| **Wind** | 7.0 mph |
-| **UV Index** | 8.4 |
-| **Sunrise** | 2026-07-25T05:59 |
-| **Sunset** | 2026-07-25T19:59 |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 69.7°F (feels like 74.8°F) |
+| **High / Low** | 90.7°F / 69.1°F |
+| **Humidity** | 93% |
+| **Wind** | 4.0 mph |
+| **UV Index** | 8.15 |
+| **Sunrise** | 2026-07-26T06:00 |
+| **Sunset** | 2026-07-26T19:58 |
 
 ## About This Project
 
