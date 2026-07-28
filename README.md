@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-07-28 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 81.7°F (feels like 82.8°F) |
-| **High / Low** | 90.2°F / 68.4°F |
-| **Humidity** | 52% |
-| **Wind** | 7.9 mph |
-| **UV Index** | 8.4 |
-| **Sunrise** | 2026-07-27T06:01 |
-| **Sunset** | 2026-07-27T19:57 |
+| **Temperature** | 67.5°F (feels like 71.0°F) |
+| **High / Low** | 90.7°F / 65.5°F |
+| **Humidity** | 86% |
+| **Wind** | 2.9 mph |
+| **UV Index** | 8.35 |
+| **Sunrise** | 2026-07-28T06:01 |
+| **Sunset** | 2026-07-28T19:57 |
 
 ## About This Project
 
