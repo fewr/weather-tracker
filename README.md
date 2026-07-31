@@ -7,12 +7,12 @@
 
 | Metric | Value |
 |--------|-------|
-| **Date** | 2026-07-30 |
+| **Date** | 2026-07-31 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 85.8°F (feels like 91.7°F) |
-| **High / Low** | 88.3°F / 67.5°F |
-| **Humidity** | 49% |
-| **Wind** | 8.2 mph |
+| **Temperature** | 79.4°F (feels like 81.2°F) |
+| **High / Low** | 88.9°F / 67.5°F |
+| **Humidity** | 62% |
+| **Wind** | 9.1 mph |
 | **UV Index** | 8.35 |
 | **Sunrise** | 2026-07-30T06:03 |
 | **Sunset** | 2026-07-30T19:55 |
@@ -26,7 +26,7 @@ This project automatically collects daily weather data for Los Angeles using:
 - **GitHub Actions** for scheduled automation
 - **CSV + JSON** for data storage
 
-### Data collected: 123 days
+### Data collected: 124 days
 
 All data lives in the `data/` directory:
 - `data/daily/` — One JSON file per day
