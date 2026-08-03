@@ -8,10 +8,10 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-08-03 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 67.6°F (feels like 72.9°F) |
-| **High / Low** | 87.9°F / 65.3°F |
-| **Humidity** | 95% |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 71.4°F (feels like 76.3°F) |
+| **High / Low** | 89.8°F / 65.8°F |
+| **Humidity** | 81% |
 | **Wind** | 1.8 mph |
 | **UV Index** | 8.25 |
 | **Sunrise** | 2026-08-03T06:06 |
