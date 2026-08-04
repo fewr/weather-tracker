@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-08-04 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 66.8°F (feels like 71.3°F) |
-| **High / Low** | 88.4°F / 62.5°F |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 68.7°F (feels like 73.4°F) |
+| **High / Low** | 88.0°F / 64.7°F |
 | **Humidity** | 89% |
-| **Wind** | 0.8 mph |
+| **Wind** | 2.2 mph |
 | **UV Index** | 8.25 |
 | **Sunrise** | 2026-08-04T06:06 |
 | **Sunset** | 2026-08-04T19:51 |
