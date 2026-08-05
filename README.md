@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-08-05 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 79.0°F (feels like 80.0°F) |
-| **High / Low** | 86.4°F / 64.7°F |
-| **Humidity** | 57% |
-| **Wind** | 7.8 mph |
+| **Conditions** | Partly cloudy ⛅ |
+| **Temperature** | 65.4°F (feels like 69.0°F) |
+| **High / Low** | 86.6°F / 64.6°F |
+| **Humidity** | 93% |
+| **Wind** | 2.7 mph |
 | **UV Index** | 8.25 |
-| **Sunrise** | 2026-08-04T06:06 |
-| **Sunset** | 2026-08-04T19:51 |
+| **Sunrise** | 2026-08-05T06:07 |
+| **Sunset** | 2026-08-05T19:50 |
 
 ## About This Project
 
