@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-08-07 |
-| **Conditions** | Foggy 🌫️ |
-| **Temperature** | 66.5°F (feels like 71.5°F) |
-| **High / Low** | 92.3°F / 66.1°F |
-| **Humidity** | 100% |
-| **Wind** | 3.0 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 88.8°F (feels like 94.2°F) |
+| **High / Low** | 92.5°F / 66.1°F |
+| **Humidity** | 38% |
+| **Wind** | 4.7 mph |
 | **UV Index** | 8.25 |
 | **Sunrise** | 2026-08-07T06:08 |
 | **Sunset** | 2026-08-07T19:48 |
