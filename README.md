@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-08-10 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 70.1°F (feels like 76.7°F) |
-| **High / Low** | 90.5°F / 66.1°F |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 68.0°F (feels like 73.8°F) |
+| **High / Low** | 90.7°F / 67.8°F |
 | **Humidity** | 94% |
-| **Wind** | 1.4 mph |
+| **Wind** | 0.5 mph |
 | **UV Index** | 8.1 |
 | **Sunrise** | 2026-08-10T06:11 |
 | **Sunset** | 2026-08-10T19:45 |
