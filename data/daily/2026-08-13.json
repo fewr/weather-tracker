@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-08-13T00:43:00.593423+00:00",
+  "date": "2026-08-13",
+  "city": "Los Angeles",
+  "latitude": 34.05,
+  "longitude": -118.24,
+  "temperature_f": 78.1,
+  "feels_like_f": 79.0,
+  "humidity_pct": 63,
+  "wind_speed_mph": 10.1,
+  "precipitation_in": 0.0,
+  "weather_code": 1,
+  "high_f": 87.0,
+  "low_f": 67.8,
+  "total_precip_in": 0.0,
+  "uv_index_max": 7.85,
+  "sunrise": "2026-08-12T06:12",
+  "sunset": "2026-08-12T19:43"
+}
