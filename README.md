@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-08-13 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 70.2°F (feels like 73.4°F) |
-| **High / Low** | 84.1°F / 67.4°F |
-| **Humidity** | 75% |
-| **Wind** | 2.3 mph |
-| **UV Index** | 7.05 |
+| **Temperature** | 80.3°F (feels like 85.8°F) |
+| **High / Low** | 85.0°F / 67.4°F |
+| **Humidity** | 60% |
+| **Wind** | 6.7 mph |
+| **UV Index** | 7.4 |
 | **Sunrise** | 2026-08-13T06:13 |
 | **Sunset** | 2026-08-13T19:42 |
 
