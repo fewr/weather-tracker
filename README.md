@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-08-14 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 80.8°F (feels like 87.7°F) |
-| **High / Low** | 84.9°F / 67.4°F |
-| **Humidity** | 61% |
-| **Wind** | 5.3 mph |
+| **Temperature** | 80.5°F (feels like 82.5°F) |
+| **High / Low** | 84.4°F / 67.1°F |
+| **Humidity** | 59% |
+| **Wind** | 8.6 mph |
 | **UV Index** | 8.05 |
 | **Sunrise** | 2026-08-14T06:14 |
 | **Sunset** | 2026-08-14T19:41 |
