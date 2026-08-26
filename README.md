@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-08-26 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 73.9°F (feels like 74.5°F) |
-| **High / Low** | 102.0°F / 71.6°F |
-| **Humidity** | 55% |
-| **Wind** | 3.7 mph |
+| **Temperature** | 98.3°F (feels like 106.1°F) |
+| **High / Low** | 101.3°F / 71.6°F |
+| **Humidity** | 36% |
+| **Wind** | 5.9 mph |
 | **UV Index** | 7.9 |
 | **Sunrise** | 2026-08-26T06:22 |
 | **Sunset** | 2026-08-26T19:26 |
