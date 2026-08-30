@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-08-30 |
-| **Conditions** | Partly cloudy ⛅ |
-| **Temperature** | 69.4°F (feels like 73.2°F) |
-| **High / Low** | 94.1°F / 69.4°F |
-| **Humidity** | 82% |
-| **Wind** | 2.8 mph |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 80.6°F (feels like 86.1°F) |
+| **High / Low** | 92.5°F / 70.3°F |
+| **Humidity** | 66% |
+| **Wind** | 3.5 mph |
 | **UV Index** | 7.6 |
 | **Sunrise** | 2026-08-30T06:25 |
 | **Sunset** | 2026-08-30T19:21 |
