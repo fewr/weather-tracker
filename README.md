@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-09-02 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 73.0°F (feels like 74.3°F) |
-| **High / Low** | 82.9°F / 61.4°F |
-| **Humidity** | 62% |
-| **Wind** | 4.7 mph |
+| **Temperature** | 84.2°F (feels like 88.0°F) |
+| **High / Low** | 83.3°F / 61.4°F |
+| **Humidity** | 44% |
+| **Wind** | 7.8 mph |
 | **UV Index** | 7.6 |
 | **Sunrise** | 2026-09-02T06:27 |
 | **Sunset** | 2026-09-02T19:17 |
