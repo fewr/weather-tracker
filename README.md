@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-09-03 |
 | **Conditions** | Partly cloudy ⛅ |
-| **Temperature** | 63.7°F (feels like 65.9°F) |
-| **High / Low** | 82.8°F / 63.1°F |
-| **Humidity** | 88% |
-| **Wind** | 2.9 mph |
+| **Temperature** | 71.4°F (feels like 73.5°F) |
+| **High / Low** | 82.8°F / 63.4°F |
+| **Humidity** | 70% |
+| **Wind** | 4.0 mph |
 | **UV Index** | 7.6 |
 | **Sunrise** | 2026-09-03T06:28 |
 | **Sunset** | 2026-09-03T19:16 |
