@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-09-04 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 62.9°F (feels like 64.8°F) |
-| **High / Low** | 83.2°F / 62.2°F |
-| **Humidity** | 91% |
-| **Wind** | 3.8 mph |
+| **Conditions** | Mainly clear 🌤️ |
+| **Temperature** | 72.3°F (feels like 74.0°F) |
+| **High / Low** | 83.3°F / 64.6°F |
+| **Humidity** | 65% |
+| **Wind** | 3.9 mph |
 | **UV Index** | 7.6 |
 | **Sunrise** | 2026-09-04T06:28 |
 | **Sunset** | 2026-09-04T19:14 |
