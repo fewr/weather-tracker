@@ -9,11 +9,11 @@
 |--------|-------|
 | **Date** | 2026-09-08 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 85.6°F (feels like 95.3°F) |
-| **High / Low** | 99.3°F / 72.7°F |
-| **Humidity** | 72% |
-| **Wind** | 3.5 mph |
-| **UV Index** | 6.3 |
+| **Temperature** | 91.6°F (feels like 98.3°F) |
+| **High / Low** | 96.0°F / 72.7°F |
+| **Humidity** | 47% |
+| **Wind** | 7.1 mph |
+| **UV Index** | 4.85 |
 | **Sunrise** | 2026-09-08T06:31 |
 | **Sunset** | 2026-09-08T19:09 |
 
