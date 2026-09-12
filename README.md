@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-09-12 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 71.5°F (feels like 78.1°F) |
-| **High / Low** | 90.1°F / 70.3°F |
-| **Humidity** | 92% |
-| **Wind** | 2.0 mph |
+| **Conditions** | Partly cloudy ⛅ |
+| **Temperature** | 74.5°F (feels like 82.2°F) |
+| **High / Low** | 90.2°F / 70.6°F |
+| **Humidity** | 89% |
+| **Wind** | 2.2 mph |
 | **UV Index** | 7.4 |
 | **Sunrise** | 2026-09-12T06:34 |
 | **Sunset** | 2026-09-12T19:03 |
