@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-09-18 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 61.1°F (feels like 61.9°F) |
-| **High / Low** | 80.1°F / 60.0°F |
-| **Humidity** | 87% |
-| **Wind** | 3.8 mph |
+| **Temperature** | 80.9°F (feels like 83.5°F) |
+| **High / Low** | 80.9°F / 62.1°F |
+| **Humidity** | 50% |
+| **Wind** | 9.2 mph |
 | **UV Index** | 7.05 |
 | **Sunrise** | 2026-09-18T06:38 |
 | **Sunset** | 2026-09-18T18:55 |
