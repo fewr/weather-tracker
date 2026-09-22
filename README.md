@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-09-22 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 71.2°F (feels like 71.2°F) |
-| **High / Low** | 79.2°F / 65.0°F |
-| **Humidity** | 64% |
-| **Wind** | 6.7 mph |
-| **UV Index** | 6.35 |
-| **Sunrise** | 2026-09-21T06:40 |
-| **Sunset** | 2026-09-21T18:50 |
+| **Temperature** | 64.8°F (feels like 66.2°F) |
+| **High / Low** | 80.4°F / 62.9°F |
+| **Humidity** | 78% |
+| **Wind** | 2.7 mph |
+| **UV Index** | 6.9 |
+| **Sunrise** | 2026-09-22T06:41 |
+| **Sunset** | 2026-09-22T18:49 |
 
 ## About This Project
 
