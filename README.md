@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-09-27 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 77.5°F (feels like 81.5°F) |
-| **High / Low** | 92.5°F / 64.3°F |
-| **Humidity** | 71% |
-| **Wind** | 6.3 mph |
-| **UV Index** | 6.8 |
-| **Sunrise** | 2026-09-26T06:43 |
-| **Sunset** | 2026-09-26T18:43 |
+| **Temperature** | 78.1°F (feels like 82.4°F) |
+| **High / Low** | 88.6°F / 67.1°F |
+| **Humidity** | 67% |
+| **Wind** | 4.2 mph |
+| **UV Index** | 6.4 |
+| **Sunrise** | 2026-09-27T06:44 |
+| **Sunset** | 2026-09-27T18:42 |
 
 ## About This Project
 
