@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-10-02 |
-| **Conditions** | Mainly clear 🌤️ |
-| **Temperature** | 70.2°F (feels like 74.2°F) |
-| **High / Low** | 85.3°F / 63.7°F |
-| **Humidity** | 89% |
-| **Wind** | 5.6 mph |
+| **Conditions** | Clear sky ☀️ |
+| **Temperature** | 101.9°F (feels like 101.5°F) |
+| **High / Low** | 102.2°F / 63.8°F |
+| **Humidity** | 21% |
+| **Wind** | 7.7 mph |
 | **UV Index** | 6.6 |
-| **Sunrise** | 2026-10-01T06:47 |
-| **Sunset** | 2026-10-01T18:36 |
+| **Sunrise** | 2026-10-02T06:48 |
+| **Sunset** | 2026-10-02T18:35 |
 
 ## About This Project
 
