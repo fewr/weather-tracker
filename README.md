@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-10-06 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 74.7°F (feels like 74.2°F) |
-| **High / Low** | 101.5°F / 74.4°F |
-| **Humidity** | 49% |
-| **Wind** | 4.4 mph |
+| **Temperature** | 97.0°F (feels like 99.3°F) |
+| **High / Low** | 102.1°F / 71.9°F |
+| **Humidity** | 26% |
+| **Wind** | 4.0 mph |
 | **UV Index** | 6.4 |
 | **Sunrise** | 2026-10-06T06:51 |
 | **Sunset** | 2026-10-06T18:30 |
