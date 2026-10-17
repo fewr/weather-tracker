@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-10-17 |
-| **Conditions** | Overcast ☁️ |
-| **Temperature** | 79.9°F (feels like 75.1°F) |
-| **High / Low** | 91.7°F / 69.4°F |
-| **Humidity** | 27% |
-| **Wind** | 7.1 mph |
-| **UV Index** | 5.8 |
+| **Conditions** | Partly cloudy ⛅ |
+| **Temperature** | 91.9°F (feels like 88.7°F) |
+| **High / Low** | 92.9°F / 69.7°F |
+| **Humidity** | 14% |
+| **Wind** | 4.6 mph |
+| **UV Index** | 5.1 |
 | **Sunrise** | 2026-10-17T06:59 |
 | **Sunset** | 2026-10-17T18:16 |
 
