@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-10-21 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 68.4°F (feels like 70.4°F) |
-| **High / Low** | 84.2°F / 62.3°F |
-| **Humidity** | 80% |
-| **Wind** | 5.3 mph |
-| **UV Index** | 5.65 |
-| **Sunrise** | 2026-10-20T07:02 |
-| **Sunset** | 2026-10-20T18:12 |
+| **Temperature** | 61.3°F (feels like 62.0°F) |
+| **High / Low** | 77.2°F / 60.1°F |
+| **Humidity** | 87% |
+| **Wind** | 4.1 mph |
+| **UV Index** | 4.55 |
+| **Sunrise** | 2026-10-21T07:03 |
+| **Sunset** | 2026-10-21T18:11 |
 
 ## About This Project
 
