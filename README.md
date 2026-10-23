@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-10-23 |
-| **Conditions** | Overcast ☁️ |
-| **Temperature** | 60.1°F (feels like 60.2°F) |
-| **High / Low** | 74.4°F / 57.9°F |
-| **Humidity** | 86% |
-| **Wind** | 4.2 mph |
-| **UV Index** | 5.1 |
+| **Conditions** | Mainly clear 🌤️ |
+| **Temperature** | 74.1°F (feels like 73.6°F) |
+| **High / Low** | 74.6°F / 56.9°F |
+| **Humidity** | 42% |
+| **Wind** | 3.9 mph |
+| **UV Index** | 4.9 |
 | **Sunrise** | 2026-10-23T07:04 |
 | **Sunset** | 2026-10-23T18:09 |
 
