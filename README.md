@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-11-01 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 64.7°F (feels like 67.7°F) |
-| **High / Low** | 72.5°F / 59.1°F |
-| **Humidity** | 84% |
-| **Wind** | 0.7 mph |
-| **UV Index** | 3.45 |
-| **Sunrise** | 2026-10-31T07:11 |
-| **Sunset** | 2026-10-31T18:00 |
+| **Temperature** | 60.3°F (feels like 62.0°F) |
+| **High / Low** | 68.9°F / 53.0°F |
+| **Humidity** | 93% |
+| **Wind** | 2.5 mph |
+| **UV Index** | 5.05 |
+| **Sunrise** | 2026-11-01T06:12 |
+| **Sunset** | 2026-11-01T16:59 |
 
 ## About This Project
 
