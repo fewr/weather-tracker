@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-11-02 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 63.8°F (feels like 61.4°F) |
-| **High / Low** | 76.6°F / 52.1°F |
-| **Humidity** | 57% |
-| **Wind** | 4.7 mph |
+| **Conditions** | Mainly clear 🌤️ |
+| **Temperature** | 76.0°F (feels like 73.4°F) |
+| **High / Low** | 76.3°F / 52.1°F |
+| **Humidity** | 34% |
+| **Wind** | 3.6 mph |
 | **UV Index** | 4.95 |
 | **Sunrise** | 2026-11-02T06:13 |
 | **Sunset** | 2026-11-02T16:59 |
