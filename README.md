@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-11-07 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 60.8°F (feels like 53.3°F) |
-| **High / Low** | 86.3°F / 60.3°F |
-| **Humidity** | 28% |
-| **Wind** | 7.1 mph |
+| **Temperature** | 78.9°F (feels like 74.6°F) |
+| **High / Low** | 86.2°F / 58.9°F |
+| **Humidity** | 25% |
+| **Wind** | 4.5 mph |
 | **UV Index** | 4.8 |
 | **Sunrise** | 2026-11-07T06:18 |
 | **Sunset** | 2026-11-07T16:54 |
