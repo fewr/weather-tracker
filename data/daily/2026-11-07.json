@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-07T03:12:36.954579+00:00",
+  "timestamp": "2026-11-07T13:44:35.446924+00:00",
   "date": "2026-11-07",
   "city": "Los Angeles",
   "latitude": 34.05,
   "longitude": -118.24,
-  "temperature_f": 67.4,
-  "feels_like_f": 63.0,
-  "humidity_pct": 40,
-  "wind_speed_mph": 5.9,
+  "temperature_f": 60.8,
+  "feels_like_f": 53.3,
+  "humidity_pct": 28,
+  "wind_speed_mph": 7.1,
   "precipitation_in": 0.0,
   "weather_code": 0,
-  "high_f": 84.0,
-  "low_f": 54.8,
+  "high_f": 86.3,
+  "low_f": 60.3,
   "total_precip_in": 0.0,
   "uv_index_max": 4.8,
-  "sunrise": "2026-11-06T06:17",
-  "sunset": "2026-11-06T16:55"
+  "sunrise": "2026-11-07T06:18",
+  "sunset": "2026-11-07T16:54"
 }
