@@ -8,14 +8,14 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-11-12 |
-| **Conditions** | Clear sky ☀️ |
-| **Temperature** | 76.5°F (feels like 76.1°F) |
-| **High / Low** | 87.2°F / 57.9°F |
-| **Humidity** | 55% |
-| **Wind** | 8.2 mph |
-| **UV Index** | 4.65 |
-| **Sunrise** | 2026-11-11T06:22 |
-| **Sunset** | 2026-11-11T16:51 |
+| **Conditions** | Overcast ☁️ |
+| **Temperature** | 63.8°F (feels like 59.8°F) |
+| **High / Low** | 78.2°F / 57.9°F |
+| **Humidity** | 40% |
+| **Wind** | 3.4 mph |
+| **UV Index** | 4.6 |
+| **Sunrise** | 2026-11-12T06:22 |
+| **Sunset** | 2026-11-12T16:50 |
 
 ## About This Project
 
