@@ -8,12 +8,12 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-11-19 |
-| **Conditions** | Overcast ☁️ |
-| **Temperature** | 59.2°F (feels like 56.0°F) |
-| **High / Low** | 63.9°F / 50.0°F |
-| **Humidity** | 81% |
-| **Wind** | 10.0 mph |
-| **UV Index** | 1.35 |
+| **Conditions** | Light drizzle 🌦️ |
+| **Temperature** | 57.8°F (feels like 59.3°F) |
+| **High / Low** | 62.6°F / 50.1°F |
+| **Humidity** | 96% |
+| **Wind** | 1.6 mph |
+| **UV Index** | 2.55 |
 | **Sunrise** | 2026-11-19T06:29 |
 | **Sunset** | 2026-11-19T16:46 |
 
