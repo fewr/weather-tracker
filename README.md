@@ -9,10 +9,10 @@
 |--------|-------|
 | **Date** | 2026-11-22 |
 | **Conditions** | Overcast ☁️ |
-| **Temperature** | 66.3°F (feels like 62.3°F) |
+| **Temperature** | 66.8°F (feels like 61.3°F) |
 | **High / Low** | 68.2°F / 47.2°F |
-| **Humidity** | 28% |
-| **Wind** | 0.5 mph |
+| **Humidity** | 39% |
+| **Wind** | 7.9 mph |
 | **UV Index** | 3.75 |
 | **Sunrise** | 2026-11-22T06:32 |
 | **Sunset** | 2026-11-22T16:45 |
