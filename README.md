@@ -9,13 +9,13 @@
 |--------|-------|
 | **Date** | 2026-11-23 |
 | **Conditions** | Clear sky ☀️ |
-| **Temperature** | 57.5°F (feels like 54.6°F) |
-| **High / Low** | 68.9°F / 47.2°F |
-| **Humidity** | 56% |
-| **Wind** | 2.2 mph |
-| **UV Index** | 3.8 |
-| **Sunrise** | 2026-11-22T06:32 |
-| **Sunset** | 2026-11-22T16:45 |
+| **Temperature** | 63.7°F (feels like 63.6°F) |
+| **High / Low** | 69.1°F / 52.0°F |
+| **Humidity** | 65% |
+| **Wind** | 2.0 mph |
+| **UV Index** | 4.05 |
+| **Sunrise** | 2026-11-23T06:33 |
+| **Sunset** | 2026-11-23T16:45 |
 
 ## About This Project
 
