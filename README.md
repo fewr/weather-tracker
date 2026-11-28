@@ -8,11 +8,11 @@
 | Metric | Value |
 |--------|-------|
 | **Date** | 2026-11-28 |
-| **Conditions** | Partly cloudy ⛅ |
-| **Temperature** | 70.9°F (feels like 69.1°F) |
+| **Conditions** | Mainly clear 🌤️ |
+| **Temperature** | 63.0°F (feels like 63.0°F) |
 | **High / Low** | 85.3°F / 55.6°F |
-| **Humidity** | 49% |
-| **Wind** | 4.9 mph |
+| **Humidity** | 66% |
+| **Wind** | 1.1 mph |
 | **UV Index** | 3.9 |
 | **Sunrise** | 2026-11-27T06:36 |
 | **Sunset** | 2026-11-27T16:44 |
